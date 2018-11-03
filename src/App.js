@@ -5,7 +5,7 @@ import InputForm from './components/InputForm/InputForm';
 import './App.css';
 
 const app = new Clarifai.App({
-  apiKey: '758daddddcc147a5b9ef5daca35954e2'
+  apiKey: 'API KEY HERE'
  });
 
 class App extends Component {
